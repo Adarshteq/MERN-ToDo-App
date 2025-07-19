@@ -55,8 +55,32 @@ Deployment: Render (Backend) + Vercel (Frontend)
 
 Create .env in the root directory:
 
-env
+```env
 MONGO_URI=....................
 NODE_ENV=.....................
 PORT=.........................
+```
 
+3. Install Dependencies
+
+```bash
+# Backend dependencies
+cd server
+npm install
+
+# Frontend dependencies
+cd ../client
+npm install
+```
+
+4. Run the Application
+
+```bash
+# In separate terminals:
+
+# Start backend (from /server)
+npm run dev
+
+# Start frontend (from /client)
+npm start
+```
