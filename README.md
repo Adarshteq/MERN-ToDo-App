@@ -24,7 +24,7 @@ A full-featured Todo application built with the MERN stack (MongoDB, Express.js,
 | Authentication | JWT (JSON Web Tokens)    |
 | Deployment     | Render (Backend) + Vercel (Frontend) |
 
-
+https://mern-todo-app-wglw.onrender.com
 ## 📸 Screenshots
 
 <img width="813" height="656" alt="Screenshot 2025-07-18 222343" src="https://github.com/user-attachments/assets/4c5dd68e-550e-41d6-880c-3ac5af5060b2" />
@@ -45,5 +45,4 @@ A full-featured Todo application built with the MERN stack (MongoDB, Express.js,
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Adarshteq/MERN-ToDo-App.git
-   cd MERN-ToDo-App
-  ```
+   cd MERN-ToDo-App ```
