@@ -1,19 +1,19 @@
-# 📝 MERN ToDo Application
-
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+## 📝 MERN ToDo App
 
 A full-featured Todo application built with the MERN stack (MongoDB, Express.js, React, Node.js) with user authentication and real-time CRUD operations.
 
 ## ✨ Features
-- **🔐 JWT Authentication** - Secure user signup/login/logout
+
 - **✅ Todo Management** - Add, edit, complete, and delete tasks
-- **👤 User-Specific Data** - Todos are private to each user
+
 - **⚡ Real-Time Updates** - Instant UI feedback on all actions
+
 - **📱 Responsive Design** - Works on all device sizes
-- **🎨 Modern UI** - Clean interface with React Bootstrap
+
+- **🎨 Modern UI** - Clean interface with React 
 
 ## 🛠 Tech Stack
+
 | Component       | Technology               |
 |----------------|--------------------------|
 | Frontend       | React 18, React Router 6 |
@@ -24,22 +24,20 @@ A full-featured Todo application built with the MERN stack (MongoDB, Express.js,
 | Authentication | JWT (JSON Web Tokens)    |
 | Deployment     | Render (Backend) + Vercel (Frontend) |
 
-## 🚀 Live Demo
-Check out the deployed version: [Live Demo](https://your-deployed-link.com)
 
 ## 📸 Screenshots
-| | |
-|-|-|
-| ![Login](https://via.placeholder.com/400x225/333/FFF?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/400x225/333/FFF?text=Todo+Dashboard) |
-| *Login Page* | *Main Dashboard* |
-| ![Mobile](https://via.placeholder.com/200x400/333/FFF?text=Mobile+View) | ![Dark Mode](https://via.placeholder.com/400x225/222/FFF?text=Dark+Mode) |
-| *Mobile Responsive* | *Dark Mode* |
+
+<img width="813" height="656" alt="Screenshot 2025-07-18 222343" src="https://github.com/user-attachments/assets/4c5dd68e-550e-41d6-880c-3ac5af5060b2" />
+
 
 ## 🛠 Installation
 
 ### Prerequisites
+
 - Node.js (v16+ recommended)
+
 - MongoDB Atlas account or local MongoDB
+
 - Git
 
 ### Setup Instructions
@@ -48,3 +46,4 @@ Check out the deployed version: [Live Demo](https://your-deployed-link.com)
    ```bash
    git clone https://github.com/Adarshteq/MERN-ToDo-App.git
    cd MERN-ToDo-App
+  ```
