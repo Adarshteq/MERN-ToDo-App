@@ -14,21 +14,25 @@ A full-featured Todo application built with the MERN stack (MongoDB, Express.js,
 
 ## 🛠 Tech Stack
 
-| Component       | Technology               |
-|----------------|--------------------------|
-| Frontend       | React 18, React Router 6 |
-| Styling        | Bootstrap 5, CSS3        |
-| State Management | Context API + useReducer|
-| Backend        | Node.js, Express.js      |
-| Database       | MongoDB (Mongoose)       |
-| Authentication | JWT (JSON Web Tokens)    |
-| Deployment     | Render (Backend) + Vercel (Frontend) |
+Frontend: React 18, React Router 6 
 
-https://mern-todo-app-wglw.onrender.com
+Styling: tailwindcss 
+
+State Management: Context API + useReducer
+
+HTTP Requests: Axios
+
+Backend: Node.js, Express.js     
+
+Database: MongoDB (Mongoose)       |
+
+Deployment: Render (Backend) + Vercel (Frontend) 
+
+## 🚀 [Live Demo](https://mern-todo-app-wglw.onrender.com)
+
 ## 📸 Screenshots
 
-<img width="813" height="656" alt="Screenshot 2025-07-18 222343" src="https://github.com/user-attachments/assets/4c5dd68e-550e-41d6-880c-3ac5af5060b2" />
-
+<img width="818" height="631" alt="image" src="https://github.com/user-attachments/assets/f52ecef6-54db-4b97-b1f8-1e900f775892" />
 
 ## 🛠 Installation
 
@@ -45,4 +49,14 @@ https://mern-todo-app-wglw.onrender.com
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Adarshteq/MERN-ToDo-App.git
-   cd MERN-ToDo-App ```
+   cd MERN-ToDo-App 
+
+2. Setup Environment Variables
+
+Create .env in the root directory:
+
+env
+MONGO_URI=....................
+NODE_ENV=.....................
+PORT=.........................
+
